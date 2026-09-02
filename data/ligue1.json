@@ -2,7 +2,7 @@
   "status": "error",
   "source": "API-FOOTBALL",
   "updatedAt": null,
-  "lastAttemptAt": "2026-09-01T21:01:22.840Z",
+  "lastAttemptAt": "2026-09-02T21:01:21.739Z",
   "error": "APIキーが設定されていません。GitHub SecretsにFOOTBALL_API_KEYを登録してください。",
   "teams": []
 }
